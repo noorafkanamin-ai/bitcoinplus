@@ -82,7 +82,7 @@ python wallet_cli.py send --to <RECIPIENT_BTCP_ADDRESS> --amount 1.5
 
 ## 💎 Buying BTCP (Official OTC Desk)
 BTCP can be acquired directly through the integrated OTC portal on the live web dashboard:
-* **Fixed Valuation:** **1 BTCP = €520.00 EUR**
+* **Fixed Valuation:** **1 BTCP 
 * **Supported Currencies:** Tether (USDT TRC20/ERC20), Bitcoin (BTC), and Ethereum (ETH).
 * **Anti-Fraud Security:** Real-time blockchain explorer verification and replay attack protection on all transaction hashes.
 
