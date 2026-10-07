@@ -14,7 +14,7 @@ Engineered specifically for **CPU mining** with multi-core parallelism and stand
 * **Target Block Time:** 10 minutes (600 seconds).
 * **Smallest Unit:** 1 Satoshi Plus (`0.00000001 BTCP`).
 * **Cryptography:** secp256k1 ECDSA with BIP-39 12-word mnemonic recovery phrases.
-* **Official Pegged OTC Value:** **€520.00 EUR** per 1 BTCP.
+* **Official Pegged OTC Value
 
 ---
 
